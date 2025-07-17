@@ -1,5 +1,6 @@
 flask
-requests
+flask_cors
 praw
 textblob
 gunicorn
+python-dotenv
