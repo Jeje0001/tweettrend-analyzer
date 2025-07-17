@@ -1,0 +1,5 @@
+flask
+requests
+praw
+textblob
+gunicorn
